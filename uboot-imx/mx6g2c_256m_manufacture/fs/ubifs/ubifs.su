@@ -1,0 +1,9 @@
+ubifs.c:40:12:gzip_decompress	16	static
+ubifs.c:217:19:compr_init	32	static
+ubifs.c:484:22:ubifs_findfile	520	static
+ubifs.c:90:7:kmemdup	16	static
+ubifs.c:173:5:ubifs_decompress	32	static
+ubifs.c:630:12:read_block	48	static
+ubifs.c:245:12:ubifs_compressors_init	8	static
+ubifs.c:571:5:ubifs_ls	144	static
+ubifs.c:788:5:ubifs_load	72	static

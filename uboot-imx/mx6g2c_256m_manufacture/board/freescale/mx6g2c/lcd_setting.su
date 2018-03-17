@@ -1,0 +1,4 @@
+lcd_setting.c:9:6:do_enable_parallel_lcd	8	static
+lcd_setting.c:118:26:get_lcd_panels	0	static
+lcd_setting.c:124:5:splash_screen_prepare	8	static
+lcd_setting.c:140:6:override_lcd_settings	8	static

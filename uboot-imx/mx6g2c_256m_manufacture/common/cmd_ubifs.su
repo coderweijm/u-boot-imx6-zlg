@@ -1,0 +1,6 @@
+cmd_ubifs.c:24:12:do_ubifs_mount	16	static
+cmd_ubifs.c:85:12:do_ubifs_ls	8	static
+cmd_ubifs.c:109:12:do_ubifs_load	32	static
+cmd_ubifs.c:50:5:ubifs_is_mounted	0	static
+cmd_ubifs.c:55:6:cmd_ubifs_umount	8	static
+cmd_ubifs.c:69:12:do_ubifs_umount	8	static

@@ -1,0 +1,8 @@
+micrel.c:67:12:ksz8895_startup	0	static
+micrel.c:109:12:ksz90xx_startup	8	static
+micrel.c:53:5:ksz8895_config	16	static
+micrel.c:216:5:ksz9031_phy_extended_write	32	static
+micrel.c:252:12:ksz9031_phy_extwrite	0	static
+micrel.c:233:5:ksz9031_phy_extended_read	32	static
+micrel.c:245:12:ksz9031_phy_extread	0	static
+micrel.c:272:5:phy_micrel_init	8	static

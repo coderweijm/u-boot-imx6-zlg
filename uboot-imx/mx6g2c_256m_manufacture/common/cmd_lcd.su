@@ -1,0 +1,3 @@
+cmd_lcd.c:33:6:cmd_lcd_info	24	static
+cmd_lcd.c:52:6:cmd_lcd_select	8	static
+cmd_lcd.c:85:5:do_lcd_cmd	16	static
